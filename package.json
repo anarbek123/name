@@ -1,0 +1,15 @@
+{
+  "name": "driver-rights-app",
+  "version": "1.0.0",
+  "description": "Права Водителя - помощник при общении с ДПС",
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-inappbrowser": {},
+      "cordova-plugin-geolocation": {},
+      "cordova-plugin-device": {},
+      "cordova-plugin-androidx": {}
+    },
+    "platforms": ["android"]
+  }
+}
